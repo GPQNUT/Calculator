@@ -4,6 +4,8 @@
 
 这是一个使用 Go + ConnectRPC 作为后端、Next.js 作为前端的全栈计算器应用。该应用实现了基础的四则运算功能，通过 ConnectRPC 协议在前后端之间进行通信，并包含完整的单元测试。
 
+<img width="856" alt="截屏2025-04-30 上午12 03 36" src="https://github.com/user-attachments/assets/ab2ac261-a593-4e56-9eb3-1388aa33ad8e" />
+
 ## 项目结构
 
 ```
